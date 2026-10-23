@@ -1,0 +1,25 @@
+DATE                                              20261021                                          065736
+RELEASE                                           758
+LOADED_AGRS                                       Z_BC_ZSTUD_RFC
+AGR_DEFINE                                        100Z_BC_ZSTUD_RFC                                              TRAIN-70    20261021064144000000000000000TRAIN-70    20261021065705000000000000000
+AGR_1250                                          100Z_BC_ZSTUD_RFC                000001B_ALE_RECV__________00    U  O000000
+AGR_1250                                          100Z_BC_ZSTUD_RFC                000002S_RFC     __________00    U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000001B_ALE_RECV__________00    EDI_MES   ZSTUD                                                                           U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000002S_RFC     __________00    ACTVT     16                                                                              U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000003S_RFC     __________00    RFC_NAME  ARFC                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000004S_RFC     __________00    RFC_NAME  EDIN                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000005S_RFC     __________00    RFC_NAME  ERFC                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000006S_RFC     __________00    RFC_NAME  RFC1                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000007S_RFC     __________00    RFC_NAME  SDIF                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000008S_RFC     __________00    RFC_NAME  SDIFRUNTIME                                                                     U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000009S_RFC     __________00    RFC_NAME  SYST                                                                            U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000010S_RFC     __________00    RFC_NAME  ZSTUD_IDOC                                                                      U  O000000
+AGR_1251                                          100Z_BC_ZSTUD_RFC                000011S_RFC     __________00    RFC_TYPE  FUGR                                                                            U  O000000
+AGR_TEXTS                                         100Z_BC_ZSTUD_RFC                E00000RFC Authorisation For Scolarity MAnagement
+AGR_FLAGS                                         100Z_BC_ZSTUD_RFC                COLL_AGR  TRAIN-70    20261021064144TRAIN-70    20261021064144
+AGR_FLAGS                                         100Z_BC_ZSTUD_RFC                DEVCLASS  TRAIN-70    20261021064144TRAIN-70    20261021064144
+AGR_FLAGS                                         100Z_BC_ZSTUD_RFC                MASTER_LANTRAIN-70    20261021064144TRAIN-70    20261021064144E
+AGR_FLAGS                                         100Z_BC_ZSTUD_RFC                RESP_USER TRAIN-70    20261021064144TRAIN-70    20261021064144
+AGR_FLAGS                                         100Z_BC_ZSTUD_RFC                FORCE_MIX TRAIN-70    20261021065558TRAIN-70    20261021065558
+AGR_TIME                                          100Z_BC_ZSTUD_RFC                PROFILE   TRAIN-70    20261021065558000000000000000TRAIN-70    20261021065558000000000000000
+AGR_LSD                                           100Z_BC_ZSTUD_RFC                                              E
